@@ -4,6 +4,10 @@
     <string name="action_search">Search</string>
     <string name="drawer_open">Open</string>
     <string name="drawer_close">Close</string>
+    <string name="hello">Hello</string>
+
+
+
 
     <string name="nav_item_home">Home</string>
     <string name="nav_item_friends">Friends</string>
